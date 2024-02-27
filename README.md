@@ -1,1 +1,2 @@
-End-to-End Power BI Project
+End-to-End HR Analytics Dashboard
+
